@@ -1,10 +1,3 @@
-//
-//  ClimatoApp.swift
-//  Climato
-//
-//  Created by Fernando on 24-01-22.
-//
-
 import SwiftUI
 
 @main
